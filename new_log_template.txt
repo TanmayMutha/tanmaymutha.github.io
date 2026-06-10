@@ -1,0 +1,13 @@
+<div class="post">
+
+    <h2>TITLE HERE</h2>
+
+    <p class="timestamp">
+        DATE HERE
+    </p>
+
+    <p>
+        Write here...
+    </p>
+
+</div>
